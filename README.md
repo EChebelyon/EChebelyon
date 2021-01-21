@@ -1,4 +1,4 @@
-### Hola! Me llamo Eddy  👋
+[![My Banner](./assets/echeblyon.gif)](https://github.com/EChebelyon)
 
 [![Visits Badge](https://badges.pufler.dev/visits/EChebelyon/EChebelyon)](https://github.com/EChebelyon)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Echebelyon)
@@ -11,4 +11,3 @@
 - 📫 How to reach me: [email](kipedie@gmail.com), [Twitter](https://twitter.com/EChebelyon)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I absolutely enjoy learning, wether it's about how to distinguish between a crow and a raven from their calls to figuring out ways to leverage advances in computing at my day job. When not developing, I enjoy the outdoors, early morning runs, hikes with my two girls and until recently took a martial arts class after they went to bed.
-
