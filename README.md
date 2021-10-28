@@ -10,7 +10,7 @@
 - 💬 Ask me about the English Premier League, specifically Chelsea Footbal Club
 - 📫 How to reach me: [Email](kipedie@gmail.com)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I absolutely enjoy learning, wether it's about how to distinguish between a crow and a raven from their calls to figuring out ways to leverage advances in computing at my day job. When not developing, I enjoy the outdoors, early morning runs, hikes with my two girls and until recently took a martial arts class after they went to bed.
+- ⚡ Fun fact: I absolutely enjoy learning, wether it's about how to distinguish between a crow and a raven from their calls to figuring out ways to leverage advances in computing at my day job. When not developing, I enjoy the outdoors, early morning runs, and hikes with my girls.
 
 ### Languages
 
