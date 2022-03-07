@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/eddy-chebelyon/)
 
 - 🔭 I’m currently working on geospatial data science @ [fraym.io](https://fraym.io/)
-- 🌱 I’m currently learning Nuxt.js, d3.js and digging deeper into the AWS ecosystem
+- 🌱 I’m currently learning Javascript, d3.js and digging deeper into the AWS ecosystem
 - 👯 I’m looking to collaborate on anything Machine Learning, geospatial development, GIS for the web
 - 💬 Ask me about the English Premier League, specifically Chelsea Footbal Club
 - 📫 How to reach me: [Email](kipedie@gmail.com)
